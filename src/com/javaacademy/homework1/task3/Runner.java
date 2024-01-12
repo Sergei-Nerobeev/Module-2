@@ -13,6 +13,7 @@ public class Runner {
     System.out.println("Even Items into MagicStore: " + magicStore.getAllEvenItems());
     System.out.println("Get Item for index: " + magicStore.getByIndex(4));
     magicStore.keepLastItem();
+
     System.out.println("After remove: " + magicStore.getAllItems());
   }
 }
