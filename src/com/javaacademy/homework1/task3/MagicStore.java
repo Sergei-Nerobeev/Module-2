@@ -23,7 +23,7 @@ public class MagicStore {
 
   public ArrayList<Item> getAllEvenItems() {
     ArrayList<Item> evenItem = new ArrayList<>();
-    for (int i = 0; i < items.size(); i += 2) {
+    for (int i = 1; i < items.size(); i += 2) {
       evenItem.add(items.get(i));
     }
     return evenItem;
