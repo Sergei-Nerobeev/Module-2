@@ -1,43 +1,7 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
-X
-(src/com/javaacademy/homework/Runner.java,1\7\175099ad6409d46cc308ecd4a1bc02b09596e731
-O
-src/com/javaacademy/Runner.java,9\6\9658ef05478128f370193bd21031778bdf9cd235
-[
-+src/com/javaacademy/homework/Homework1.java,3\5\35b0c20d77057f81992ee41cbfbab6a6dfda83f3
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-e
-5src/com/javaacademy/homework/homework1/Homework1.java,9\f\9f180f5817590fa5770c549aaab5192e01c4d6b4
-a
-1src/com/javaacademy/homework/homework1/Task1.java,3\a\3aa3a0e20788422c4c2e6381949e765f915103f1
-]
--src/com/javaacademy/homework/task1/Task1.java,e\4\e4e0ffb622d67f7e3fac286ddc6b1d7f1a27cbd0
-^
-.src/com/javaacademy/homework/task1/Runner.java,f\c\fc62141f814b91af1ecf1154a50fde1433e7ab72
-h
-8src/com/javaacademy/homework/homework1/task1/Runner.java,6\1\61e22ad7eded284fdedebef21c58706a8808de76
-k
-;src/com/javaacademy/homework/homework1/task1/Homework1.java,3\6\36540669b83698402d733c5853b0f86d32c634c9
-]
--src/com/javaacademy/homework/task1/Tiger.java,a\f\af5c02f75536aba027d81496f3a9a042aa2a1e76
-[
-+src/com/javaacademy/homework/task1/Dog.java,f\5\f5dbeb1604008fb41f388af46aa3708096e33e0e
-\
-,src/com/javaacademy/homework/task1/Bird.java,a\2\a20c78ef32799610dada87c6988345c78c8a02b0
-^
-.src/com/javaacademy/homework/task1/Animal.java,8\b\8b033b49074b3639a90c41dc1d53c1f346df5600
-[
-+src/com/javaacademy/homework/task1/Zoo.java,8\e\8eab47651cb1e7fa756772ab9cb44ba9f2c7670b
-f
-6src/com/javaacademy/homework/homework1/task1/Bird.java,0\3\03f207fe24eb54b85fc63de542414d056bd174b7
-h
-8src/com/javaacademy/homework/homework1/task1/Animal.java,5\0\50487e73cdf814cd7172a460439b4146e7320c62
-e
-5src/com/javaacademy/homework/homework1/task1/Zoo.java,b\b\bb1e651df59880b3872bc6c152146ad706bc02dd
 _
 /src/com/javaacademy/homework1/task1/Runner.java,4\4\4499f199618c60278723a254028e7266229e830c
 \
@@ -54,8 +18,6 @@ _
 -src/com/javaacademy/homework1/task3/Item.java,5\8\5857fa9884df55ad886b31213b0244f57d0fae0c
 _
 /src/com/javaacademy/homework1/task3/Runner.java,8\1\814dbd8575d0251f98571163a5c6aa2e7bbae649
-^
-.src/com/javaacademy/homework1/task3/Store.java,1\5\15eaa1c9ff3fc59b1c322cab1e7bbb550aa25a69
 c
 3src/com/javaacademy/homework1/task3/MagicStore.java,d\f\dfdf2383b28b9db994c3481f889b7b297fd0b7d6
 <

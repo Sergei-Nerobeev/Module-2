@@ -16,7 +16,8 @@ public class Runner {
     ArrayList<Integer> total = new ArrayList<>();
     total.addAll(first);
     total.addAll(second);
-    total.remove(3);
+    System.out.println(total);
+    total.remove(2);
     System.out.println(total.indexOf(10));
 
   }

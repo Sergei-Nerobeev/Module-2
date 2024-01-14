@@ -11,11 +11,10 @@ public class MagicStore {
 
   public void addItem(Item item) {
     items.add(item);
-
   }
 
   public void addItems(ArrayList<Item> items) {
-    items.addAll(items);
+    this.items.addAll(items);
   }
 
   public ArrayList<Item> getAllItems() {
