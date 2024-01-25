@@ -72,3 +72,7 @@ _
 -src/com/javaacademy/homework2/task2/Item.java,b\2\b29db925332856ec84e0f61024b60535693d0dce
 ^
 .src/com/javaacademy/homework2/task2/Human.java,6\1\61fcdcc2d70f1ce05b5f0db4f73d5c767a9be10a
+_
+/src/com/javaacademy/homework2/task3/Detail.java,7\6\76dd9cd8dfbac960cebe7704936c399b947ef24e
+_
+/src/com/javaacademy/homework2/task3/Runner.java,7\9\7984f7af1aa189d8663367bb51006f8caaa553ee
