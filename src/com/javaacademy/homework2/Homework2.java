@@ -1,6 +1,6 @@
-package com.javaacademy.homework2.task1;
+package com.javaacademy.homework2;
 
-public class Homework4 {
+public class Homework2 {
   public static void main(String[] args) throws InterruptedException {
     //1. Задание: багажное отделение аэропорта
     //Создать класс чемодан, атрибут: номер рейса
