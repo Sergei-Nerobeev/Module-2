@@ -1,16 +1,14 @@
 package com.javaacademy.homework3.task1;
 
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.Objects;
 
 public class FeedBack {
-  private Long id;
+  private int id;
   private String text;
-  private Long likeQuantity;
+  private int likeQuantity;
   public Date  date;
 
-  public FeedBack(Long id, String text, Long likeQuantity) {
+  public FeedBack(int id, String text, int likeQuantity) {
     this.id = id;
     this.text = text;
     this.likeQuantity = likeQuantity;
@@ -18,10 +16,10 @@ public class FeedBack {
 
   }
 
-  public Long getId() {
+  public int getId() {
     return id;
   }
-  public Long getLikeQuantity() {
+  public int getLikeQuantity() {
     return likeQuantity;
   }
   public Date getDate() {

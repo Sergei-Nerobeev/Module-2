@@ -1,6 +1,5 @@
 package com.javaacademy.homework2.task3;
 
-import java.util.Objects;
 
 public class Detail {
   private String name;
@@ -15,6 +14,7 @@ public class Detail {
 
   @Override
   public boolean equals(Object object) {
+    // сравнение классов обьектов
     return true;
   }
 

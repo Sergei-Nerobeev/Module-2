@@ -58,3 +58,5 @@ a
 1src/com/javaacademy/homework3/task1/FeedBack.java,6\1\6160b243d6553b92628d2e526bf71e8c20f1a92a
 ]
 -src/com/javaacademy/homework3/task1/Date.java,a\3\a3c3346e5f21263829f44e2588244b47540eb95f
+g
+7src/com/javaacademy/homework3/task1/LikeComparator.java,4\0\40157dd5dfd56a2cbe6f9dbe45e190f1e0987f69
