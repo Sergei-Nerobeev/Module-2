@@ -10,7 +10,7 @@ public class Date {
 
   public Date() {
     this.localDateTime = LocalDateTime.now();
-    this.dateTimeFormatter = DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm");
+    this.dateTimeFormatter = DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm:ss");
     this.date = localDateTime.format(dateTimeFormatter);
   }
 
@@ -18,4 +18,9 @@ public class Date {
   public String toString() {
     return date;
   }
+
+  public LocalDateTime getLocalDateTime() {
+    return localDateTime;
+  }
+
 }

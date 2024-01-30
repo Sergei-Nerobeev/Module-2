@@ -6,7 +6,7 @@ public class FeedBack {
   private int id;
   private String text;
   private int likeQuantity;
-  public Date  date;
+  public Date date;
 
   public FeedBack(int id, String text, int likeQuantity) {
     this.id = id;
@@ -19,9 +19,11 @@ public class FeedBack {
   public int getId() {
     return id;
   }
+
   public int getLikeQuantity() {
     return likeQuantity;
   }
+
   public Date getDate() {
     return date;
   }
@@ -29,7 +31,7 @@ public class FeedBack {
   @Override
   public String toString() {
     return
-        "{id: " + id + ", "+ text + ", "  + likeQuantity + ", " + date + '}';
+        "{id: " + id + ", " + text + ", " + likeQuantity + ", " + date + '}';
   }
 
   @Override

@@ -1,7 +1,5 @@
 package com.javaacademy.homework3;
 
-import java.util.SortedSet;
-
 public class Homework3 {
   public static void main(String[] args) {
     //Задание №1: сортировка отзывов
