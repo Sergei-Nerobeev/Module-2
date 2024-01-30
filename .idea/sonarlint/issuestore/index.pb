@@ -68,3 +68,15 @@ f
 6src/com/javaacademy/homework3/task2/GardenGrowble.java,0/e/0eca6813fc3a6cc329cad4a57e22d20ad0a4fff3
 _
 /src/com/javaacademy/homework3/task2/Garden.java,e/e/ee9d31849df885bc4f66654472a49f6c07f64075
+_
+/src/com/javaacademy/homework3/task3/Runner.java,5/c/5cc84bcad796ef701faa055e32499a97cc62b24a
+h
+8src/com/javaacademy/homework3/task3/FortuneTellyble.java,9/9/997b32f8ea8c8b40400f9273371a26baaf75f220
+e
+5src/com/javaacademy/homework3/task3/FortuneTelly.java,3/e/3ed361c2fe063502d570ff009285956a4c1620b6
+g
+7src/com/javaacademy/homework3/task3/FortuneTelling.java,f/5/f5a53dbf4ce0db379d64a5a36c05a5b2fa4952fd
+^
+.src/com/javaacademy/homework3/task3/Human.java,c/9/c91de993d2be920b29b24d32e333606eeb0ccaa5
+_
+/src/com/javaacademy/homework3/task4/Runner.java,1/e/1e1df5b9c5ea83af3b494151a6cb53d718ff2b9d
