@@ -4,7 +4,7 @@ public class Runner {
   public static void main(String[] args) {
 
     Burning bonfire = (tree) -> System.out.println("Желто-красный свет вокруг!");
-    Burning reactor = (uran) -> System.out.println("Зеленый свет вокруг!");
+    Burning reactor = (uranium) -> System.out.println("Зеленый свет вокруг!");
 
     bonfire.fireAll("tree");
     reactor.fireAll("uranium");
