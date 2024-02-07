@@ -1,4 +1,4 @@
-package com.javaacademy.homework4;
+package com.javaacademy.homework4.task1;
 
 public class Car {
 private String number;

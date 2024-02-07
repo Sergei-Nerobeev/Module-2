@@ -88,3 +88,13 @@ V
 &src/com/javaacademy/homework4/Car.java,5/b/5b8ff61a4c51241e4cb2631b8edd974b41a2cd4b
 Y
 )src/com/javaacademy/homework4/Runner.java,3/2/3200d1352640ce8acfe5db00f16b1ec965321500
+\
+,src/com/javaacademy/homework4/task1/Car.java,e/0/e0aa9096d5592cf76110890f19a9d20838f17513
+_
+/src/com/javaacademy/homework4/task1/Runner.java,5/9/59e0bddb4128b8faf79dcf22d5a2147c0e14c754
+X
+(src/com/javaacademy/homework4/task2.java,e/0/e0fbb1ed0cea09afdd02e06cba1052e291fe53fe
+]
+-src/com/javaacademy/homework4/task2/Word.java,4/4/44df55a53745e9832a8ff83162056b6faf6d0a9f
+_
+/src/com/javaacademy/homework4/task2/Runner.java,4/3/436f1b03d9fc7df9c3b7818698d259cca95a2733
