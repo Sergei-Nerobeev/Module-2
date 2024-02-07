@@ -1,7 +1,5 @@
 package com.javaacademy.homework4.task1;
 
-import com.javaacademy.homework4.task1.Car;
-
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
